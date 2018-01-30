@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml:18:1-38:12
+	package
+		ADDED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml:19:5-51
+	android:versionName
+		ADDED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml:21:5-30
+		INJECTED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml:20:5-28
+		INJECTED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml:23:5-35:19
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\UMANG\.android\build-cache\df69ce4e33d928b8df0256c6187084ff0f4dec4a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\UMANG\.android\build-cache\21a9789067fd0df1afabb6839548df0d01cdf2b4\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\UMANG\.android\build-cache\25feb88b75fc49ddf5e7c75ca27796059aab77f2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\UMANG\.android\build-cache\13da46d0ef867b76881f4df64e600aef02171662\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\UMANG\.android\build-cache\00913af4efe376068e5167d81211765bf169e457\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\UMANG\.android\build-cache\f73eacf54cdc633d4bd0212b30cd751314ac657d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\UMANG\.android\build-cache\5d3feee22fa34a65aca0e0f0b16f3f9e5b54646f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\UMANG\.android\build-cache\08517d08d1ab7a93ace600077fefdc290c0f1b75\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\UMANG\.android\build-cache\7404fd72110cde547fd23e868737d84b377b2ef4\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\UMANG\.android\build-cache\81f7488995dae11548d47e1a4599d9c461fd44fe\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\UMANG\.android\build-cache\b104f89a5f73f4c10200f3aa9ef7823ee344dc18\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml:24:9-41
+	android:allowBackup
+		ADDED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml:23:18-44
+	android:icon
+		ADDED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml:25:9-43
+	android:theme
+		ADDED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml:26:9-54
+activity#com.example.android.pdfrendererbasic.MainActivity
+ADDED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml:28:9-34:20
+	android:label
+		ADDED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml:29:19-51
+	android:name
+		ADDED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml:28:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\UMANG\.android\build-cache\df69ce4e33d928b8df0256c6187084ff0f4dec4a\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\UMANG\.android\build-cache\21a9789067fd0df1afabb6839548df0d01cdf2b4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\UMANG\.android\build-cache\25feb88b75fc49ddf5e7c75ca27796059aab77f2\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\UMANG\.android\build-cache\13da46d0ef867b76881f4df64e600aef02171662\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\UMANG\.android\build-cache\00913af4efe376068e5167d81211765bf169e457\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\UMANG\.android\build-cache\f73eacf54cdc633d4bd0212b30cd751314ac657d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\UMANG\.android\build-cache\5d3feee22fa34a65aca0e0f0b16f3f9e5b54646f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\UMANG\.android\build-cache\08517d08d1ab7a93ace600077fefdc290c0f1b75\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\UMANG\.android\build-cache\7404fd72110cde547fd23e868737d84b377b2ef4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\UMANG\.android\build-cache\81f7488995dae11548d47e1a4599d9c461fd44fe\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\UMANG\.android\build-cache\b104f89a5f73f4c10200f3aa9ef7823ee344dc18\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\UMANG\.android\build-cache\df69ce4e33d928b8df0256c6187084ff0f4dec4a\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] C:\Users\UMANG\.android\build-cache\df69ce4e33d928b8df0256c6187084ff0f4dec4a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\UMANG\.android\build-cache\21a9789067fd0df1afabb6839548df0d01cdf2b4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\UMANG\.android\build-cache\25feb88b75fc49ddf5e7c75ca27796059aab77f2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\UMANG\.android\build-cache\13da46d0ef867b76881f4df64e600aef02171662\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\UMANG\.android\build-cache\00913af4efe376068e5167d81211765bf169e457\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\UMANG\.android\build-cache\f73eacf54cdc633d4bd0212b30cd751314ac657d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\UMANG\.android\build-cache\5d3feee22fa34a65aca0e0f0b16f3f9e5b54646f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\UMANG\.android\build-cache\08517d08d1ab7a93ace600077fefdc290c0f1b75\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\UMANG\.android\build-cache\7404fd72110cde547fd23e868737d84b377b2ef4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\UMANG\.android\build-cache\81f7488995dae11548d47e1a4599d9c461fd44fe\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\UMANG\.android\build-cache\b104f89a5f73f4c10200f3aa9ef7823ee344dc18\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\UMANG\.android\build-cache\df69ce4e33d928b8df0256c6187084ff0f4dec4a\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\UMANG\.android\build-cache\df69ce4e33d928b8df0256c6187084ff0f4dec4a\output\AndroidManifest.xml:26:9-47

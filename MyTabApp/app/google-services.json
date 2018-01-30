@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "851360710367",
+    "firebase_url": "https://tabapplication-3fbd9.firebaseio.com",
+    "project_id": "tabapplication-3fbd9",
+    "storage_bucket": "tabapplication-3fbd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851360710367:android:62600046f0a9a424",
+        "android_client_info": {
+          "package_name": "softwaretech.umang.tabapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851360710367-b0pc1blhrj0br3eavp0io5der6duo6ed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "softwaretech.umang.tabapplication",
+            "certificate_hash": "73219833df46e00ea1a9ea56cc8791ff3f963cdc"
+          }
+        },
+        {
+          "client_id": "851360710367-mm7fq0jecolrr05amb2r2ujtjmvf2gid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApg4i6uw37Er-6OTuWoiAlsGfb8YsyzJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851360710367-mm7fq0jecolrr05amb2r2ujtjmvf2gid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851360710367:android:e450131ec61daee4",
+        "android_client_info": {
+          "package_name": "softwaretech.umang.mytabapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851360710367-7gj4220e2k0dhj1ip4b10v12jvqt9eb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "softwaretech.umang.mytabapp",
+            "certificate_hash": "73219833df46e00ea1a9ea56cc8791ff3f963cdc"
+          }
+        },
+        {
+          "client_id": "851360710367-mm7fq0jecolrr05amb2r2ujtjmvf2gid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApg4i6uw37Er-6OTuWoiAlsGfb8YsyzJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851360710367-mm7fq0jecolrr05amb2r2ujtjmvf2gid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

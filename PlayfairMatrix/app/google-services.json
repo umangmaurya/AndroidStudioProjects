@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "171553432370",
+    "firebase_url": "https://playfairmatrix.firebaseio.com",
+    "project_id": "playfairmatrix",
+    "storage_bucket": "playfairmatrix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171553432370:android:05f7cacd8497962a",
+        "android_client_info": {
+          "package_name": "softwaretech.umang.playfairmatrix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171553432370-qp1lqonsfb1hu5jk6je9f388f8cfa5il.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "softwaretech.umang.playfairmatrix",
+            "certificate_hash": "73219833df46e00ea1a9ea56cc8791ff3f963cdc"
+          }
+        },
+        {
+          "client_id": "171553432370-7kia7baioeetpfdd4eue5ov8ulckq9mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAEKRGFhc6Hbfhz6y1PKHpd4-j3l7fDh4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171553432370-7kia7baioeetpfdd4eue5ov8ulckq9mo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

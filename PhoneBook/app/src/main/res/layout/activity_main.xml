@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ff00ff">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingLeft="55dp"
+        android:paddingRight="50dp"
+        android:paddingBottom="3dp"
+        android:background="#11ff00"
+        android:layout_marginTop="20dp"
+        android:text="ADD NEW Contact"
+        android:textSize="15dp"
+        android:id="@+id/b1"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingLeft="40dp"
+        android:paddingRight="80dp"
+        android:paddingBottom="3dp"
+        android:layout_marginTop="20dp"
+        android:background="#11ff00"
+        android:text="Search Contact"
+        android:textSize="15dp"
+        android:id="@+id/b2"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingLeft="68dp"
+        android:paddingRight="75dp"
+        android:paddingBottom="3dp"
+        android:background="#11ff00"
+        android:layout_marginTop="20dp"
+        android:text="Edit Contact"
+        android:textSize="15dp"
+        android:id="@+id/b3"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingLeft="50dp"
+        android:paddingRight="40dp"
+        android:paddingBottom="3dp"
+        android:background="#11ff00"
+        android:layout_marginTop="20dp"
+        android:text="Show All Contacts"
+        android:textSize="15dp"
+        android:id="@+id/b4"/>
+</LinearLayout>

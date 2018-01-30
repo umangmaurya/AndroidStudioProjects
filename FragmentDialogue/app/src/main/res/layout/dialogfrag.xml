@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout  xmlns:android1="http://schemas.android.com/apk/res/android"
+    android1:layout_height="wrap_content"
+    android1:layout_width="wrap_content"
+    android1:orientation="vertical">
+
+    <EditText
+        android1:layout_width="wrap_content"
+        android1:layout_height="wrap_content"
+        android1:hint="Enter here"
+        android1:textSize="20sp"
+        android1:id="@+id/txt"
+        />
+    <LinearLayout
+        android1:layout_width="wrap_content"
+        android1:layout_height="wrap_content"
+        android1:orientation="horizontal">
+
+        <Button
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:text="OK"
+            android1:id="@+id/ok"/>
+        <Button
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:id="@+id/can"
+            android1:text="Cancel"
+            />
+    </LinearLayout>
+
+</LinearLayout>

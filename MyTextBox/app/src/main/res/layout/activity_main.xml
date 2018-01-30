@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="I Love My India "
+        android:textColor="@android:color/holo_blue_dark"
+        android:id="@+id/tv"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"/>
+    <SeekBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/seekb1"
+        android:layout_below="@+id/tv">
+
+    </SeekBar>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Italic"
+        android:id="@+id/tv1"
+        android:textStyle="italic"
+        android:textSize="18dp"
+        android:textColor="@android:color/holo_orange_dark"
+        android:layout_toRightOf="@+id/sw1"
+        android:layout_below="@+id/seekb1"/>
+
+    <Switch
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/sw1"
+        android:layout_below="@+id/seekb1"
+        />
+
+
+    <ToggleButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tb1"
+        android:layout_below="@+id/sw1"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bold"
+        android:textStyle="bold"
+        android:textColor="@android:color/holo_green_dark"
+        android:id="@+id/tv2"
+        android:textSize="18dp"
+        android:layout_toRightOf="@+id/tb1"
+        android:layout_below="@+id/sw1"/>
+
+</RelativeLayout>

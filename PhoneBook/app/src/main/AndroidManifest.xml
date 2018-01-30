@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.umang.phonebook">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity" />
+        <activity android:name=".AddActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SearchActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".EditActivity"
+            />
+        <activity android:name=".MainSearch" />
+        <activity android:name=".MainEdit" />
+        <activity android:name=".ShowActivity" />
+        <activity android:name=".NewActivity">
+            <intent-filter>
+
+            </intent-filter>
+        </activity>
+        <activity android:name=".New2Activity" />
+        <activity android:name=".New3Activity" />
+        <activity android:name=".New4Activity"></activity>
+    </application>
+
+</manifest>

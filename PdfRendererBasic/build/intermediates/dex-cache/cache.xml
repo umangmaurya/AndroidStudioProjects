@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a6942ec386d1ecc1f67eb0bfd781a5f069e19805">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8fd58bb04e1d47b0a31aaf57c969273490277131\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.android\build-cache\21a9789067fd0df1afabb6839548df0d01cdf2b4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_66917c19f9f0cfa5e0d9d45b305300bf8e09d455\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\PdfRendererBasic\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_be1c1dae3b245712705da58a5be82431068a825e\classes.dex" />
+    </item>
+
+</items>

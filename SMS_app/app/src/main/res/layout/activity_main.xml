@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d8c4d8">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:id="@+id/number"
+        android:hint="Number"
+        android:inputType="phone"
+
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_margin="10dp"
+        android:hint="type your message text here.."
+        android:id="@+id/msg"
+        android:gravity="left"
+        android:layout_below="@+id/number"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SEND"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        android:gravity="center"
+        android:id="@+id/send"
+        android:layout_below="@+id/msg"
+        android:layout_margin="20dp"
+        android:background="#3f71d4"/>
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_below="@+id/send"
+        android:src="@mipmap/as"/>
+
+</RelativeLayout>
+

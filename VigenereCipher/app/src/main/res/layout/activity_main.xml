@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:layout_margin="10dp"
+    android:padding="10dp"
+    android:id="@+id/rl1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textColor="#0c0a94"
+        android:text="Plaintext"
+        android:id="@+id/tv1"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/plain"
+        android:textSize="30dp"
+        android:hint="Enter your plaintext here"
+        android:layout_below="@+id/tv1"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Keyword"
+        android:textColor="#0c0a94"
+        android:textSize="25sp"
+        android:id="@+id/tv2"
+        android:layout_below="@+id/plain"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/key"
+        android:textSize="30dp"
+        android:hint="Enter your keyword here"
+        android:layout_below="@id/tv2"/>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/rl2"
+        android:layout_below="@id/key"
+        android:layout_margin="30dp"
+        android:padding="20dp"
+        >
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/enc"
+            android:background="#3cff00"
+            android:text="Encryption"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/dec"
+            android:gravity="center"
+            android:text="Decryption"
+            android:background="#cdecd509"
+            android:layout_toRightOf="@id/enc"/>
+
+
+
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textColor="@color/colorAccent"
+        android:hint="Your output will appear here"
+        android:id="@+id/res"
+        android:layout_below="@id/rl2"/>
+</RelativeLayout>
+
+

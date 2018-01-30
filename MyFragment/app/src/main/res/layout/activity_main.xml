@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    android1:layout_height="match_parent"
+    android1:layout_width="match_parent"
+    android1:background="#1ecf12"
+    android1:id="@+id/rl1"
+    android1:orientation="vertical"
+    >
+
+
+    <TextView
+        android1:layout_width="wrap_content"
+        android1:layout_height="wrap_content"
+        android1:text="Main Activity"
+        android1:id="@+id/tv1"
+        android1:textColor="#ff0000"
+        android1:textSize="20sp"/>
+
+    <Button
+        android1:layout_width="wrap_content"
+        android1:layout_height="wrap_content"
+        android1:text="Show"
+        android1:id="@+id/show"/>
+    <Button
+        android1:layout_width="wrap_content"
+        android1:layout_height="wrap_content"
+        android1:text="Hide"
+        android1:id="@+id/hide"/>
+
+</LinearLayout>

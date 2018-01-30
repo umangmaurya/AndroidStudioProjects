@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android ="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ff00ff"
+    android:id="@+id/rl1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#00ff00"
+        android:id="@+id/Ll1"
+        android:layout_alignParentBottom="true">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn1"
+            android:text="Button 1"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"/>
+
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="Button 2"
+            android:id="@+id/btn2"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"/>
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="Button 3"
+            android:id="@+id/btn3"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"/>
+
+    </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Ll2"
+        android:background="#ffffff"
+        android:orientation="vertical"
+
+        android:layout_margin="10dp"
+        android:padding="10dp">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Your Name"
+            android:id="@+id/yname"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Your Mobile no."
+            android:id="@+id/ymob"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Your Email:"
+            android:id="@+id/yemail"/>
+
+
+    </LinearLayout>
+
+    </RelativeLayout>
+

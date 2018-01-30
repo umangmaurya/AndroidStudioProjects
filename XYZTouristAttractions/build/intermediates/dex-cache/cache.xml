@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.android\build-cache\00913af4efe376068e5167d81211765bf169e457\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c4a1b2d1cf0519338f3273d2416dc3be1bf67126\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8d7fa9790d691aae3c78ce95c496ce829dd2cf76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.android\build-cache\5a0fba97b9f213d6b55098940c7b45edad8c9640\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6bceb6db968190780c2619a49c545ffac9834155\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.android\build-cache\f73eacf54cdc633d4bd0212b30cd751314ac657d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c266c5f1ebfe95f35cdb337d6b6850eb93f4d20c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.android\build-cache\3744217e4af1c3e0156237f38ea6aceb4e88bc7c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89856eb04d5de34583f320ecf50b53c22e1adb45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.android\build-cache\25feb88b75fc49ddf5e7c75ca27796059aab77f2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33a44dfcc71f6e290bb60b90ec89a90535ee8ff8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.android\build-cache\81f7488995dae11548d47e1a4599d9c461fd44fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0184209381dd7369e875f5e59f9206d7c6a796cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.android\build-cache\13da46d0ef867b76881f4df64e600aef02171662\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f9545cfabea023c286235c83c993a5fcc344007\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.android\build-cache\df69ce4e33d928b8df0256c6187084ff0f4dec4a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e76c8ce99d2044872221b5ee3c3c6c4b0a4fed12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.android\build-cache\66ed5599932b0abc6a4dfdfb83aeb5c491843cc8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76be7108ae0c5e3f1751e3720b137831fdcc34ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.android\build-cache\3fcc1dc3d266ad26f0cb0749d576c5d2d5ba23d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_60dcaa1a8242e5278a3929a6d9cf6510b63cc4e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.android\build-cache\658793ff69d8d311fa6bf0d3a0b346127ab18a50\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0e773aa1473c22f06fc575e494d02f7ab1d1f90b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.android\build-cache\08517d08d1ab7a93ace600077fefdc290c0f1b75\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e5baebca17325ea35e1fb5f1730bc1bfd4fdb79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.android\build-cache\5d3feee22fa34a65aca0e0f0b16f3f9e5b54646f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c380fdfbc8179a492ffd5157502a5723604969ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.android\build-cache\4736d8e47c5bebbc4fc15760dd56cd4e3552f8c9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7105482c579c6507602a60c60750aac7a02f0adb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.6.1_4468a2006549d3dce4ac9fe332da4aaa805d7e42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.android\build-cache\d69c192b4e32da25f05bd09a9903572083a5966b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b85739692fbd8c183ebec039e22f0d9070c01c85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_8503f7bfdc36a1e9c63e89d2dd94ff1e7016a0c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.android\build-cache\069b35f7c2ab27d46c608a358e3aa2a4126c42d0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82b9f399d49db387658c3c7624604caa1e3cfc36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.android\build-cache\b104f89a5f73f4c10200f3aa9ef7823ee344dc18\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9fd206141c0be25d2e313ff9b7591567638c0c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.android\build-cache\d31fbd6265703354815bf4bfdde8c46c940dce77\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b95f2bf44857a158b097e9f80d5d18d69f32584">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6034f943923ea61516b61eabe89246bdb517f099\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.android\build-cache\7404fd72110cde547fd23e868737d84b377b2ef4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b269d2c0e3e4f80991285a6dca18d7647132054\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\.android\build-cache\78188b61207755f7f925c9d4e5fcb25e2582cff0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6470a93eecc42698efb36a270fe8db3641d5990d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb326c1dbb8833d7061da1346c52c808cbabbb7d">
+        <dex dex="C:\Users\UMANG\AndroidStudioProjects\XYZTouristAttractions\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_910facad60a51ef55c3e6800df15c04677c8bd3e\classes.dex" />
+    </item>
+
+</items>

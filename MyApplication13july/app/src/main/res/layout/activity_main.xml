@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ff00ff">
+
+    <EditText
+        android:layout_width="180dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:hint="Enter Name"
+        android:background="#ffffdd"
+        android:id="@+id/t1"/>
+
+    <EditText
+        android:layout_width="180dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:hint="Mobile Number"
+        android:inputType="numberDecimal"
+        android:background="#ffffdd"
+        android:id="@+id/t2"/>
+    <EditText
+        android:layout_width="180dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:inputType="textEmailAddress"
+        android:hint="Email ID:"
+        android:background="#ffffdd"
+        android:id="@+id/t3"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/sbtn"
+        android:onClick="saveData"
+
+
+
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/showbtn"
+        android:onClick="onShow"
+
+
+
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Clear"
+
+        android:id="@+id/cbtn"
+        android:onClick="onClearclick"
+
+
+
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Search"
+
+        android:id="@+id/searchbtn"
+        android:onClick="onSearch"
+
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete"
+
+        android:id="@+id/dbtn"
+        android:onClick="onDelete"
+
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Update"
+
+        android:id="@+id/updatebtn"
+        android:onClick="onUpdate"
+
+        />
+</LinearLayout>

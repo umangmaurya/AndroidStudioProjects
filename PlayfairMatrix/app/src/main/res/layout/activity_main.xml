@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#22d9bd0b"
+    android:layout_margin="20dp"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter Plaintext"
+        android:textSize="20sp"
+        android:textColor="#ff0000"
+        android:id="@+id/tv1"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Your plaintext  appear here"
+        android:id="@+id/pltext"
+        android:layout_below="@+id/tv1"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Your Keyword for Encryption"
+        android:textColor="#ff0000"
+        android:textSize="20sp"
+        android:id="@+id/tv2"
+        android:layout_below="@+id/pltext"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/keyword"
+        android:hint="Keyword"
+        android:layout_below="@+id/tv2"/>
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/encrypt"
+        android:text="Encrypt"
+        android:background="@color/colorAccent"
+        android:layout_below="@id/keyword"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/decrypt"
+        android:text="Decrypt"
+        android:background="#00ff00"
+        android:layout_toRightOf="@id/encrypt"
+        android:layout_below="@id/keyword"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Your OUTPUT text will appear here"
+        android:id="@+id/res"
+        android:layout_below="@+id/encrypt"/>
+
+
+</RelativeLayout>
