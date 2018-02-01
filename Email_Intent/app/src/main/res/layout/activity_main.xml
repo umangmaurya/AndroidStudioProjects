@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_height="match_parent"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_height="match_parent"
+android:layout_width="match_parent"
+android:orientation="vertical">
+
+<!--<TextView
     android:layout_width="match_parent"
-    android:orientation="vertical">
+    android:layout_height="wrap_content"
+    android:id="@+id/tv1"
+    android:text="Sender Email ID:"/>
+<EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/semail"
+    android:inputType="textEmailAddress"
+    android:layout_below="@+id/tv1"/> -->
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/remail"
+    android:text="Receiver Email:"/>
+<!--android:layout_below="@+id/semail"-->
+<EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/rcemail"
+    android:inputType="textEmailAddress"
+    android:layout_below="@id/remail"/>
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/sub"
+    android:text="Subject"
+    android:layout_below="@id/rcemail"/>
+<EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/subject"
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/tv1"
-        android:text="Sender Email ID:"/>
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/semail"
-        android:inputType="textEmailAddress"
-        android:layout_below="@+id/tv1"/>
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/remail"
-        android:text="Receiver Email:"
-        android:layout_below="@+id/semail"/>
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/rcemail"
-        android:inputType="textEmailAddress"
-        android:layout_below="@id/remail"/>
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/sub"
-        android:text="Subject"
-        android:layout_below="@id/rcemail"/>
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/subject"
+    android:layout_below="@id/sub"/>
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Body"
+    android:id="@+id/body"
+    android:layout_below="@id/subject"/>
+<EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/msg"
+    android:inputType="textMultiLine"
+    android:layout_below="@id/body"
 
-        android:layout_below="@id/sub"/>
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Body"
-        android:id="@+id/body"
-        android:layout_below="@id/subject"/>
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/msg"
-        android:inputType="textMultiLine"
-        android:layout_below="@id/body"
-
-        />
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Send Email"
-        android:id="@+id/btn"
-       android:onClick="sendmail"
-        android:layout_below="@+id/msg"/>
+    />
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Send Email"
+    android:id="@+id/btn"
+    android:onClick="sendmail"
+    android:layout_below="@+id/msg"/>
 
 </RelativeLayout>
